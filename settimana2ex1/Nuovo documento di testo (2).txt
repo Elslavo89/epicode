@@ -1,0 +1,17 @@
+comment 
+<i class="fa fa-comment-o" aria-hidden="true"></i>
+
+users
+<i class="fa fa-users" aria-hidden="true"></i>
+
+arrow
+<i class="fa fa-location-arrow" aria-hidden="true"></i>
+
+facebook
+<i class="fa fa-facebook" aria-hidden="true"></i>
+
+linkedin
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+
+twitter
+<i class="fa fa-twitter" aria-hidden="true"></i>
